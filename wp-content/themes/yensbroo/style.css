@@ -1,0 +1,40 @@
+/*
+Theme Name: yensbroo
+Author: Yens Broothaers
+Author URI: https://wordpress.org/
+Description: This is a theme made from yensbroo
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: yensbroo
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+body {
+  padding-top: 50px;
+}
+
+.bg_white {
+  background: white;
+  box-shadow: 0 1px 2px rgba(25, 25, 25, 0.2);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.recipe_card {
+  box-shadow: 0 1px 2px rgba(25, 25, 25, 0.2);
+  min-height: 354px;
+}
+
+.recipe_card a {
+  color: green;
+}
+
+.difficulty {
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+.recipe_content {
+  margin-top: 20px;
+}
